@@ -1,0 +1,9 @@
+[Unifi Network Server]
+title=Unifi Network Server
+description=Application to setup and maintain Unifi network equipment
+ports=3478,10001/udp
+
+[Unifi Web Server]
+title=Unifi Web Server
+description=Web server to manage Unifi Network Server
+ports=8080,8443/tcp
