@@ -1,0 +1,4 @@
+[MariaDB]
+title=MariaDB DBMS
+description=Database management system, relational, open source, community developed fork of MySQL
+ports=3306/tcp
